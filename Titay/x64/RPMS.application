@@ -8,7 +8,7 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://hyubane25.github.io/RpmsPublish/Titay/x64/RPMS.application" />
+    <deploymentProvider codebase="file://192.168.1.200/PerzeusCorp%20Files/Publish%20Files/Real%20Property%20Management%20App/x64/RPMS.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
