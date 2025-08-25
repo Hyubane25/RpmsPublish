@@ -40,7 +40,7 @@
       </Fields>
       <rd:DataSetInfo>
         <rd:DataSetName>DSRPT</rd:DataSetName>
-        <rd:SchemaPath>C:\Users\Home\source\repos\RealPropertyTaxSystem\RealPropertyTaxSystem\DSRPT.xsd</rd:SchemaPath>
+        <rd:SchemaPath>C:\Users\JanreyPC\source\repos\Hyubane25\RPMS\RPMS\DSRPT.xsd</rd:SchemaPath>
         <rd:TableName>LandAppraisal</rd:TableName>
         <rd:TableAdapterFillMethod />
         <rd:TableAdapterGetDataMethod />
@@ -76,7 +76,7 @@
       </Fields>
       <rd:DataSetInfo>
         <rd:DataSetName>DSRPT</rd:DataSetName>
-        <rd:SchemaPath>C:\Users\janre\OneDrive\Desktop\RealPropertyTaxSystem\RealPropertyTaxSystem\DSRPT.xsd</rd:SchemaPath>
+        <rd:SchemaPath>C:\Users\JanreyPC\source\repos\Hyubane25\RPMS\RPMS\DSRPT.xsd</rd:SchemaPath>
         <rd:TableName>OtherImprovements</rd:TableName>
         <rd:TableAdapterFillMethod />
         <rd:TableAdapterGetDataMethod />
@@ -95,11 +95,11 @@
         </Field>
         <Field Name="adjustment_factor">
           <DataField>adjustment_factor</DataField>
-          <rd:TypeName>System.Decimal</rd:TypeName>
+          <rd:TypeName>System.String</rd:TypeName>
         </Field>
         <Field Name="adjustment">
           <DataField>adjustment</DataField>
-          <rd:TypeName>System.Decimal</rd:TypeName>
+          <rd:TypeName>System.String</rd:TypeName>
         </Field>
         <Field Name="value_adjustment">
           <DataField>value_adjustment</DataField>
@@ -112,7 +112,7 @@
       </Fields>
       <rd:DataSetInfo>
         <rd:DataSetName>DSRPT</rd:DataSetName>
-        <rd:SchemaPath>C:\Users\Home\source\repos\RealPropertyTaxSystem\RealPropertyTaxSystem\DSRPT.xsd</rd:SchemaPath>
+        <rd:SchemaPath>C:\Users\JanreyPC\source\repos\Hyubane25\RPMS\RPMS\DSRPT.xsd</rd:SchemaPath>
         <rd:TableName>MarketValues</rd:TableName>
         <rd:TableAdapterFillMethod />
         <rd:TableAdapterGetDataMethod />
@@ -160,7 +160,7 @@
       </Fields>
       <rd:DataSetInfo>
         <rd:DataSetName>DSRPT</rd:DataSetName>
-        <rd:SchemaPath>C:\Users\janre\OneDrive\Desktop\RealPropertyTaxSystem\RealPropertyTaxSystem\DSRPT.xsd</rd:SchemaPath>
+        <rd:SchemaPath>C:\Users\JanreyPC\source\repos\Hyubane25\RPMS\RPMS\DSRPT.xsd</rd:SchemaPath>
         <rd:TableName>AssessmentValue</rd:TableName>
         <rd:TableAdapterFillMethod />
         <rd:TableAdapterGetDataMethod />
@@ -200,7 +200,7 @@
       </Fields>
       <rd:DataSetInfo>
         <rd:DataSetName>DSRPT</rd:DataSetName>
-        <rd:SchemaPath>C:\Users\janre\Source\Repos\Hyubane25\RealPropertyTaxSystem\RealPropertyTaxSystem\DSRPT.xsd</rd:SchemaPath>
+        <rd:SchemaPath>C:\Users\JanreyPC\source\repos\Hyubane25\RPMS\RPMS\DSRPT.xsd</rd:SchemaPath>
         <rd:TableName>dtPrevAssessments</rd:TableName>
         <rd:TableAdapterFillMethod />
         <rd:TableAdapterGetDataMethod />
@@ -6112,7 +6112,7 @@
                 <Top>6.96682in</Top>
                 <Left>0.05607in</Left>
                 <Height>2.04167in</Height>
-                <Width>7.56648in</Width>
+                <Width>7.5665in</Width>
                 <ZIndex>35</ZIndex>
                 <Style>
                   <Border>

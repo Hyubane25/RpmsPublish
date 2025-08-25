@@ -7,7 +7,7 @@
         <DataProvider>System.Data.DataSet</DataProvider>
         <ConnectString>/* Local Connection */</ConnectString>
       </ConnectionProperties>
-      <rd:DataSourceID>488bf9d3-ea02-48bc-a703-91d769a3bba1</rd:DataSourceID>
+      <rd:DataSourceID>fe686765-7063-491b-a365-a504cc85ad79</rd:DataSourceID>
     </DataSource>
   </DataSources>
   <DataSets>
@@ -124,7 +124,7 @@
       </Fields>
       <rd:DataSetInfo>
         <rd:DataSetName>ReportsDataSet</rd:DataSetName>
-        <rd:SchemaPath>C:\Users\JanreyPC\Source\Repos\Hyubane25\RealPropertyTaxSystem\RealPropertyTaxSystem\ReportsDataSet.xsd</rd:SchemaPath>
+        <rd:SchemaPath>C:\Users\JanreyPC\source\repos\Hyubane25\RPMS\RPMS\ReportsDataSet.xsd</rd:SchemaPath>
         <rd:TableName>dtQrrpa</rd:TableName>
         <rd:TableAdapterFillMethod />
         <rd:TableAdapterGetDataMethod />
@@ -244,7 +244,7 @@
       </Fields>
       <rd:DataSetInfo>
         <rd:DataSetName>ReportsDataSet</rd:DataSetName>
-        <rd:SchemaPath>C:\Users\JanreyPC\Source\Repos\Hyubane25\RealPropertyTaxSystem\RealPropertyTaxSystem\ReportsDataSet.xsd</rd:SchemaPath>
+        <rd:SchemaPath>C:\Users\JanreyPC\source\repos\Hyubane25\RPMS\RPMS\ReportsDataSet.xsd</rd:SchemaPath>
         <rd:TableName>dtQrrpa</rd:TableName>
         <rd:TableAdapterFillMethod />
         <rd:TableAdapterGetDataMethod />
@@ -364,7 +364,7 @@
       </Fields>
       <rd:DataSetInfo>
         <rd:DataSetName>ReportsDataSet</rd:DataSetName>
-        <rd:SchemaPath>C:\Users\JanreyPC\Source\Repos\Hyubane25\RealPropertyTaxSystem\RealPropertyTaxSystem\ReportsDataSet.xsd</rd:SchemaPath>
+        <rd:SchemaPath>C:\Users\JanreyPC\source\repos\Hyubane25\RPMS\RPMS\ReportsDataSet.xsd</rd:SchemaPath>
         <rd:TableName>dtQrrpa</rd:TableName>
         <rd:TableAdapterFillMethod />
         <rd:TableAdapterGetDataMethod />
@@ -986,7 +986,6 @@
                           </Style>
                         </Textbox>
                         <ColSpan>2</ColSpan>
-                        <rd:Selected>true</rd:Selected>
                       </CellContents>
                     </TablixCell>
                     <TablixCell />

@@ -52,7 +52,7 @@
       </Fields>
       <rd:DataSetInfo>
         <rd:DataSetName>DSRPT</rd:DataSetName>
-        <rd:SchemaPath>C:\Users\janre\OneDrive\Desktop\RealPropertyTaxSystem\RealPropertyTaxSystem\DSRPT.xsd</rd:SchemaPath>
+        <rd:SchemaPath>C:\Users\JanreyPC\source\repos\Hyubane25\RPMS\RPMS\DSRPT.xsd</rd:SchemaPath>
         <rd:TableName>PropertyAssessment</rd:TableName>
         <rd:TableAdapterFillMethod />
         <rd:TableAdapterGetDataMethod />
