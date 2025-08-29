@@ -8,20 +8,20 @@
         <beforeApplicationStartup />
       </update>
     </subscription>
-    <deploymentProvider codebase="https://raw.githubusercontent.com/Hyubane25/RpmsPublish/main/Release/x64/RPMS.application" />
+    <deploymentProvider codebase="https://raw.githubusercontent.com/Hyubane25/RpmsPublish/main/Release/x86/RPMS.application" />
   </deployment>
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="Application Files\RPMS_2_0_5_2\RPMS.dll.manifest" size="46277">
+    <dependentAssembly dependencyType="install" codebase="Application Files\RPMS_2_0_5_2\RPMS.dll.manifest" size="44320">
       <assemblyIdentity name="RPMS.exe" version="2.0.5.2" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>GqxAZKpazEw1A+Ng1pMEHh4fjGOl3i70dMczmK3YSgE=</dsig:DigestValue>
+        <dsig:DigestValue>9smEM5BY6LvLhR4Rk5xQUM4kxlWnhakziEuudmGFHLo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
